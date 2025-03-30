@@ -23,8 +23,8 @@ try:
     discount_percentage = float(input("Enter the discount percentage: "))
 
 # Calculate the final price
-final_price = calculate_discount(original_price, discount_percentage)
-
+    final_price = calculate_discount(original_price, discount_percentage)
+ 
 
 # Print the result
     if final_price == original_price:
