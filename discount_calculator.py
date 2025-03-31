@@ -28,8 +28,8 @@ try:
 
 # Print the result
     if final_price == original_price:
-        print(f"No discount applied. The original price is: ${final_price:.2f}")
+        print(f"No discount applied. The original price is: KES{final_price:.2f}")
     else:
-        print(f"The final price after applying the discount is: ${final_price:.2f}")
+        print(f"The final price after applying the discount is: KES{final_price:.2f}")
 except ValueError:
     print("Please enter valid numeric values for price and discount percentage.")
