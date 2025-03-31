@@ -12,9 +12,9 @@ This Python program calculates the final price of an item after applying a disco
 - Python 3
 
 ## Usage
-1. Clone the repository or download the script.
+1. Clone the repository (git clone https://github.com/KiptooRugut/Calculate-discount.git) or download the script.
 2. Open a terminal or command prompt.
 3. Navigate to the directory where the script is located.
 4. Run the script using the command:
    ```bash
-   python discount_calculator.py
+   python3 discount_calculator.py
